@@ -22,6 +22,6 @@ npm run start
 
 ## Credit
 
-- Cheers to Ganesh H for providing an awesome [written guide](https://www.notion.so/Sudoku-Solver-302ff6ca23f843dfa52662b3bc8c3c4e)
+- Cheers to Landon Schlangen for providing an awesome [video tutorial](https://youtu.be/6XDcvG2ZCRc)
 
 - Dated : 07-08-2021
